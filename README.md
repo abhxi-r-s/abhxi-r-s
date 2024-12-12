@@ -5,7 +5,7 @@
 <div align="center">
  
 ![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
-</div>
+</div> 
 
 
 ![](https://hit.yhype.me/github/profile?user_id=94307781)
@@ -14,7 +14,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,react,jquery,js,mongodb,java,python,c,linux)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in//">![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)<a>
+<a href="https://www.linkedin.com/in//">![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhishek-r-s-ab7473273/
+)<a>
 <a href="https://shivarama02.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)<a>
 <a href="https://leetcode.com/shivarama02/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<a>
 
