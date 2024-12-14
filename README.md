@@ -34,12 +34,12 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abhxi-r-s&theme=dark&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivarama02&theme=dark&hide_border=false" alt="GitHub Streaks"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhxi-r-s&theme=dark&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shivarama02&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhxi-r-s&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
