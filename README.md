@@ -18,7 +18,8 @@
 )<a>
 
 <a href="https://shivarama02.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)<a>
-<a href="https://leetcode.com/shivarama02/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<a>
+<a href="https://leetcode.com/u/abhishekunni8281/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<a>
+
 
 <h3 align="left">GitHub Stats</h3>
 
