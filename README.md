@@ -12,7 +12,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c, css,react,jquery,js,mongodb,java,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,css,react,jquery,js,mongodb,java,linux)](https://skillicons.dev)
 
 <a href="https://www.linkedin.com/in/abhishek-r-s-ab7473273/">![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhishek-r-s-ab7473273/
 )<a>
