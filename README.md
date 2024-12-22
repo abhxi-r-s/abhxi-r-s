@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=abhxi-r-s&theme=react-dark" alt="Alvin Dennis"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=abhxi-r-s&theme=react-dark" alt="abhxi-r-s"/>
 </div>
 
 
