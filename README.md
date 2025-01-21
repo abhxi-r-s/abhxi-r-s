@@ -14,12 +14,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,css,html,aws,js,mongodb,java)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/abhishek-r-s-ab7473273/">![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhishek-r-s-ab7473273/
-)<a>
-
-<a href="https://shivarama02.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)<a>
-<a href="https://leetcode.com/u/abhishekunni8281/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-r-s-ab7473273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-r-s-ab7473273" height="30" width="40" /></a>
+<a href="https://kaggle.com/abhxifiedhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhxifiedhere" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@abhishekunni8281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekunni8281" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhxified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhxified" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhxi-r-s&label=Profile%20views&color=0e75b6&style=flat" alt="abhxi-r-s" /> </p>
 
 <h3 align="left">GitHub Stats</h3>
 
