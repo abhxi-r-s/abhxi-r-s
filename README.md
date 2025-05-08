@@ -1,27 +1,21 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=49F781&random=false&width=435&lines=Developer)
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=49F781&random=false&width=435&lines=Hey+there!+I'm+abhxi-r-s;Programmer;Open+Source+Contributor;Tech+Explorer)
 
+<!-- Optional: Visitor badge -->
+<!-- <img style="margin-top:100px;" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abhxi-r-s.abhxi-r-s&left_color=green&right_color=green&left_text=Visitors" /> -->
 
+<!-- Social & Portfolio Links -->
+<a href="https://linkedin.com/in/abhishek-r-s-ab7473273">![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)</a>
+<a href="#">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)</a>
+<a href="https://www.leetcode.com/abhxified">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
-<div align="center">
- 
-![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
-</div> 
-
-
-![](https://hit.yhype.me/github/profile?user_id=94307781)
-
+<!-- Wave footer -->
+<img alt="wave" src="./files/waves.svg">
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,css,html,aws,js,mongodb,java)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-r-s-ab7473273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-r-s-ab7473273" height="30" width="40" /></a>
-<a href="https://kaggle.com/abhxifiedhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhxifiedhere" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abhishekunni8281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekunni8281" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhxified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhxified" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhxi-r-s&label=Profile%20views&color=0e75b6&style=flat" alt="abhxi-r-s" /> </p>
+
 
 <h3 align="left">GitHub Stats</h3>
 
