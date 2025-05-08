@@ -17,47 +17,12 @@
 
 
 
-<h3 align="left">GitHub Stats</h3>
 
-</br>
-
-<p align="center">
- 
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=abhxi-r-s&theme=dark&show_icons=true&count_private=true&include_all_commits=false" />
-  <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhxi-r-s&theme=dark&hide_border=false" alt="GitHub Streaks"/> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhxi-r-s&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
 </table>
 
 <br>
 
-<div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=abhxi-r-s&theme=react-dark" alt="abhxi-r-s"/>
-</div>
 
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
- 
- <div align="center">
- <p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br>
 
