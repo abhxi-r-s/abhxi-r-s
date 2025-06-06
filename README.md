@@ -13,7 +13,7 @@
 <img alt="wave" src="./files/waves.svg">
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,css,html,aws,js,mongodb,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,css,html,aws,js,mongodb,java,aws,bootstrap,cpp,linux,mysql,netlify)](https://skillicons.dev)
 
 
 
