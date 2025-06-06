@@ -6,7 +6,7 @@
 
 <!-- Social & Portfolio Links -->
 <a href="https://linkedin.com/in/abhishek-r-s-ab7473273">![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)</a>
-<a href="#">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)</a>
+<a href="https://abhxi-r-s.github.io/Portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)</a>
 <a href="https://www.leetcode.com/abhxified">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
 
 <!-- Wave footer -->
